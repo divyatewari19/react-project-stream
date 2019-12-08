@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "as",
+      "description": "asd",
+      "id": 1
+    },
+    {
+      "title": "new stream",
+      "description": "new Stream",
+      "userId": "110848369677060028194",
+      "id": 2
+    },
+    {
+      "title": "new Stream 1",
+      "description": "test",
+      "userId": "110848369677060028194",
+      "id": 3
+    },
+    {
+      "title": "me creating new stream",
+      "description": "components refactor",
+      "userId": "110848369677060028194",
+      "id": 4
+    },
+    {
+      "title": "using patch",
+      "description": "using patch request",
+      "userId": "110848369677060028194",
+      "id": 5
+    }
+  ]
+}
